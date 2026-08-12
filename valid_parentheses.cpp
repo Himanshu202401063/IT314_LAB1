@@ -31,7 +31,7 @@ bool isValid(string s)
         }
     }
 
-    return  true;
+    return  st.size() == 0;
 }
 
 int main()
